@@ -1,0 +1,14 @@
+$ git config --global user.name "vijendra96"
+$ git config --global user.email mr.vijendrakharwar@gmail.com
+$  git config --list
+$ pwd
+$ mkdir FOLDERNAME
+$ pwd
+$ cd FOLDERNAME
+$ git init
+$ git add .
+$ git commit -m "add folder"
+$ git remote add origin GIT_REPOSITORY_PATH                 (https://github.com/Vijendra96/filehandling.git)
+$ git push -u origin master
+
+
